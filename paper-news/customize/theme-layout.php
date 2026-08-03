@@ -1,4 +1,5 @@
 <?php  
+$wp_customize->get_setting('hide_copyright')->transport = 'refresh';
 
 $wp_customize->remove_control('newsair_content_layout');
 

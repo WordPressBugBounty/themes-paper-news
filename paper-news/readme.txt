@@ -2,10 +2,10 @@
 Contributors: Themeansar
 Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
 Requires PHP: 7.0
-Requires at least: 5.4
-Tested up to: 6.6
-Stable tag: 1.0
-Version: 1.0
+Requires at least: 6.0
+Tested up to: 7.0
+Stable tag: 1.1
+Version: 1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -79,3 +79,8 @@ Paper News includes support for WooCommerce and Contact From 7.
 = 1.0 =
 * Fixed Styling Issue.
 * Added Customizer Preview Image.
+
+= 1.1 =
+* Added theme URI support.
+* Improved theme information retrieval.
+* Fixed Site Title and Tagline visibility on responsive devices.

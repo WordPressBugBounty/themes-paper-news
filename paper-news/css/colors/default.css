@@ -249,6 +249,9 @@ p{
 .navbar-wp .navbar-nav > li:after { 
     background: #ed1515; 
 }
+.is-sticky .sticky-header{
+	background-color: var(--bg-color);
+}
 /*==================== Body & Global ====================*/
 body {
 	color: #5b5b5b;
